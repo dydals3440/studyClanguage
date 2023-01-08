@@ -7,4 +7,4 @@ int main()
     printf("%d 0x%x\n", lineFeed, lineFeed); // 10 0xa: 제어 문자의 ASCII 코드 출력
 
     return 0;
-}
+}   
